@@ -22,4 +22,4 @@ deploy:
 
 notifications:
  email:
-   - one@example.com(10195101471@stu.ecnu.edu.cn)
+   - 10195101471@stu.ecnu.edu.cn

@@ -19,3 +19,7 @@ deploy:
     tags: true
     branch: tag
     repo: yiyiyijiajiajia/Travis_CI_Tutorial
+
+notifications:
+ email:
+   - one@example.com(10195101471@stu.ecnu.edu.cn)
